@@ -1,7 +1,3 @@
 # Cyber Security
 
-Study notes for this image. Same shape as [javaScriptFull.md](https://github.com/Abdur-Rouf-Robin/javaScript/blob/master/javaScriptFull.md): short bullets, code you type, then homework.
-
-Read [cyberSecurityFull.md](./cyberSecurityFull.md).
-
-Twenty concepts. One repo per image heading.
+[cyberSecurityFull.md](./cyberSecurityFull.md)
